@@ -351,7 +351,7 @@
         if (score <= 49) return '他奶奶的，分数为什么这么低？';
         if (score <= 99) return 'TCL';
         if (score <= 149) return 'TQL';
-        if (score <= 199) return '卧滴任务完成了，啊哈哈哈哈哈哈';
+        if (score <= 199) return '我滴任务完成了，啊哈哈哈哈哈哈';
         return '奶奶滴，给我玩阴的是吧';
     }
 
